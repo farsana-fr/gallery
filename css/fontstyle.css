@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Rubik+Microbe&family=Wire+One&display=swap');
+div
+{
+    background-color: black;
+    width: 40%;
+    padding: 5%;
+}
+p{
+    color: white;
+    font-size: xx-large;
+    font-family: 'Rubik Microbe', cursive;
+    margin: 0%;
+}

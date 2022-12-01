@@ -1,0 +1,140 @@
+body
+{
+    background-color: black;
+}
+h1
+{
+    color: white;
+    text-align: center;
+}
+div
+{
+    height: 220px;
+    width: 150px;
+    background-color: red;
+}
+#f1
+{
+    background-color: gray;
+    margin-left: 450px;
+}
+#f2
+{
+    background-color: rgb(135, 194, 135);
+    margin-left: 620px;
+    margin-top: -220px;
+}
+#f3
+{
+    background-color: lightgreen;
+   margin-left: 790px;
+    margin-top: -220px;
+}
+#f4
+{
+    background-color: greenyellow;
+    margin-left: 960px;
+    margin-top: -220px;
+}
+#f5
+{
+    background-color: rgb(244, 221, 244);
+    margin-left: 1130px;
+    margin-top: -220px;
+}
+#f6
+{
+    background-color: orange;
+    margin-left: 280px;
+    margin-top: 50px;
+}
+#f7
+{
+    background-color: coral;
+    margin-left: 450px;
+    margin-top: -220px;
+}
+#f8
+{
+    background-color: violet;
+    margin-left: 620px;
+    margin-top: -220px;
+}
+#f9
+{
+    background-color: blueviolet;
+    margin-left: 790px;
+    margin-top: -220px;
+}
+#f10
+{
+    background-color: blue;
+    margin-left: 960px;
+    margin-top: -220px;
+}
+#f11
+{
+    background-color: plum;
+    margin-left: 1130px;
+    margin-top: -220px; 
+}
+#f12
+{
+    background-color: lightslategray;
+    margin-left: 1300px;
+    margin-top: -220px;
+}
+#f13
+{
+    background-color: aqua;
+    margin-left: 110px;
+    margin-top: 50px;
+}
+#f14
+{
+    background-color: lightgreen;
+    margin-left: 280px;
+    margin-top: -220px;
+}
+#f15
+{
+    background-color: lightsalmon;
+    margin-left: 450px;
+    margin-top: -220px;
+}
+#f16
+{
+    background-color: rgb(156, 31, 31);
+    margin-left: 620px;
+    margin-top: -220px;
+}
+#f17
+{
+    background-color: darkslategray;
+    margin-left: 790px;
+    margin-top: -220px;
+}
+#f18
+{
+    background-color: aquamarine;
+    margin-left: 960px;
+    margin-top: -220px;
+}
+#f19
+{
+    background-color: lightseagreen;
+    margin-left: 1130px;
+    margin-top: -220px; 
+}
+#f20
+{
+    background-color: lightskyblue;
+    margin-left: 1300px;
+    margin-top: -220px;
+}
+#f21
+{
+    background-color: darkgrey;
+    margin-left: 1470px;
+    margin-top: -220px;
+}

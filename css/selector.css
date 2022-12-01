@@ -1,0 +1,22 @@
+h1
+{
+    color: rgb(43, 226, 168);
+}
+#main
+{
+    color: blue;
+    text-align: center;
+}
+.h1
+{
+    color: red;
+}
+div
+{
+    background-color: bisque;
+}
+#div1
+{
+    background-color: aquamarine;
+}
+/* comment */
